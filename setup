@@ -15,8 +15,20 @@ brew update
 brew install caskroom/cask/brew-cask
 
 # Apps
+
 brew cask install iterm2
 brew cask install flux
+brew cask install google-chrome
+brew cask install caffeine
+brew cask install lastpass
+
+brew install bash-completion
+
+# Development Apps
+# brew cask install java
+# brew cask install intellij-idea-ce
+# brew cask install boot2docker
+# brew install scala
 
 # Config
 git config --global push.default simple
