@@ -18,6 +18,11 @@ brew install caskroom/cask/brew-cask
 brew cask install iterm2
 brew cask install flux
 
+# Config
+git config --global push.default simple
+git config --global user.name "Brian Hartin"
+git config --global user.email brian.hartin@gmail.com
+
 # Convenience
 #if test ! $(ls ~/bin); then
 #  mkdir ~/bin
