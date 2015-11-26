@@ -21,6 +21,8 @@ brew cask install flux
 brew cask install google-chrome
 brew cask install caffeine
 brew cask install lastpass
+brew cask install spotify
+brew cask install fly-cut
 
 brew install bash-completion
 
