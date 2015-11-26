@@ -23,6 +23,7 @@ brew cask install caffeine
 brew cask install lastpass
 brew cask install spotify
 brew cask install fly-cut
+brew cask install kindle
 
 brew install bash-completion
 
