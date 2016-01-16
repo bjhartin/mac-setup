@@ -25,6 +25,7 @@ brew cask install spotify
 brew cask install fly-cut
 brew cask install kindle
 brew cask install java
+brew cask install iexplorer
 
 brew install bash-completion
 
